@@ -1,0 +1,37 @@
+Matteo Gaetzner, 410052
+
+=== HINWEISE ===
+ - Editiere diese Datei AUSSCHLIESSLICH mit einem Editor wie Kate, Gedit, vi(m) oder emacs.
+ - Editiere diese Datei KEINESFALLS mit einer Textverarbeitung wie Word oder LibreOffice.
+ - Editiere oben den Header und trage die Daten deiner Gruppe ein. Behalte das Schema bei.
+ - Ersetze neben den jeweils von dir gewählten Antworten unten das leere Kästchen [ ] durch ein [X].
+ - Füge am Ende der Frage optional einen Kommentartext anstelle des Platzhalters in den spitzen Klammern ein.
+ - Halte das vorgegebene Format unbedingt ein!
+ - NIMM SONST KEINE WEITEREN ÄNDERUNGEN AM TEXT VOR!
+=== ENDE HINWEISE ===
+
+
+=== FRAGE 1 ===
+Ist das lineare, quadratische bzw das kubische Wachstum der Funktionen 'for_linear', 'for_quadratisch' bzw 'for_kubisch' klar zu erkennen?
+
+ANTWORT:
+
+	[ ] Nein
+	[ ] Unbekannt
+	[X] Ja
+
+KOMMENTAR: Es ist unklar was mit "klar zu erkennen" gemeint ist. Es ist klar zu erkennen das die kubische schneller als quadratische Funktion  waechst und die quadratische schneller als lineare Funktion waechst, die praezisen Werte aber nicht.
+=== ENDE FRAGE 1 ===
+
+
+=== FRAGE 2 ===
+Bleibt die Anzahl der ausgeführten Befehle bei mehrfachem Aufruf des Programms gleich?
+
+ANTWORT:
+
+	[ ] Nein
+	[X] Unbekannt
+	[ ] Ja
+
+KOMMENTAR: Bei gleichen Parametern Ja, sonst Nein.
+=== ENDE FRAGE 2 ===
